@@ -6,13 +6,13 @@
     "type": "small",
     "title": "サンプルサイト1",
     "url": "https://google.co.jp",
-    "image": "/img/publisher-logo.jpg"
+    "image": "./img/publisher-logo.jpg"
 },
 {
     "type": "small",
     "title": "サンプルサイト2",
     "url": "https://google.co.jp",
-    "image": "/img/publisher-logo.jpg"
+    "image": "./img/publisher-logo.jpg"
 },
 {
     "type": "cta-link",
@@ -23,7 +23,7 @@
         },
         {
             "text": "トップに戻る",
-            "url": "/"
+            "url": "./"
         }
     ]
 }
