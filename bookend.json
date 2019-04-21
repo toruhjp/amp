@@ -8,13 +8,13 @@
         {
             "type": "small",
             "title": "サンプルサイト1",
-            "url": "https://google.co.jp",
+            "url": "https://google.co.jp/",
             "image": "./img/publisher-logo.jpg"
         },
         {
             "type": "small",
             "title": "サンプルサイト2",
-            "url": "https://google.co.jp",
+            "url": "https://google.co.jp/",
             "image": "./img/publisher-logo.jpg"
         },
         {
@@ -22,11 +22,11 @@
             "links": [
                 {
                     "text": "お問い合わせ",
-                    "url": "https://google.co.jp"
+                    "url": "https://google.co.jp/"
                 },
                 {
-                    "text": "トップに戻る",
-                    "url": "./"
+                    "text": "アクセス",
+                    "url": "https://www.google.co.jp/maps/"
                 }
             ]
         }
