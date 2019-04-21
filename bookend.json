@@ -22,10 +22,11 @@
             "links": [
                 {
                     "text": "お問い合わせ",
+                    "//": "The text ( for button name ) must be less than 7 chars",
                     "url": "https://google.co.jp/"
                 },
                 {
-                    "text": "会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス会社概要・アクセス",
+                    "text": "会社概要・アクセス",
                     "url": "https://www.google.co.jp/maps/"
                 }
             ]
