@@ -6,10 +6,11 @@
             "text": "ほかのウェブページ"
         },
         {
-            "type": "small",
-            "title": "ブログ",
+            "type": "landscape",
+            "title": "従業員の記事",
             "url": "https://note.mu/ynsjapan/m/m0cb7c854dab7",
-            "image": "./img/publisher-logo.jpg"
+            "image": "./img/publisher-logo.jpg",
+            "category": "BLOG"
         },
         {
             "type": "small",
