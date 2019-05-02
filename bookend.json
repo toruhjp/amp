@@ -1,6 +1,6 @@
 {
     "bookendVersion": "v1.0",
-    "shareProviders": {
+    "share-providers": {
         "facebook": true,
         "twitter": true,
         "email": false
