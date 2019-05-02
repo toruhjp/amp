@@ -1,9 +1,10 @@
 {
     "bookendVersion": "v1.0",
-    "shareProviders": [
+    "shareProviders": {
         "facebook": true,
-        "twitter": true
-    ],
+        "twitter": true,
+        "email": false
+    },
     "components": [
         {
             "type": "heading",
