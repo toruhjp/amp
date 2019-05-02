@@ -1,9 +1,9 @@
 {
     "bookendVersion": "v1.0",
     "shareProviders": [
-        "facebook",
-        "twitter",
-        "email"
+        "facebook": true,
+        "twitter": true,
+        "email": false
     ],
     "components": [
         {
