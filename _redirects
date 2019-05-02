@@ -7,3 +7,4 @@ http://amp.ooy.tokyo/   https://amp.ooy.tokyo/  302
 http://amp.ooy.tokyo/*   https://amp.ooy.tokyo/  302
 /index.html   /  302
 /chat.html   /chat  302
+
