@@ -3,7 +3,7 @@
     "shareProviders": [
         {
             "provider": "facebook",
-            "data-param-app_id": "811801775885520"
+            "app_id": "811801775885520"
         }
     ],
     "components": [
