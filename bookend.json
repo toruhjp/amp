@@ -28,7 +28,7 @@
             "type": "cta-link",
             "links": [
                 {
-                    "text": "お問い合わせチャット",
+                    "text": "チャット窓口",
                     "//": "The text ( button name ) must be less than 7 chars regarding iPhone8 screen width",
                     "url": "https://amp.ooy.tokyo/chat"
                 },
