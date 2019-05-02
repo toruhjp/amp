@@ -30,7 +30,7 @@
                 {
                     "text": "お問い合わせ",
                     "//": "The text ( button name ) must be less than 7 chars regarding iPhone8 screen width",
-                    "url": "https://google.co.jp/"
+                    "url": "https://amp.ooy.tokyo/chat"
                 },
                 {
                     "text": "会社概要・地図",
