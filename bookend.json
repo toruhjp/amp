@@ -5,7 +5,10 @@
             "provider": "facebook",
             "app_id": "811801775885520"
         },
-        "twitter"
+        {
+            "provider": "twitter",
+            "text": "株式会社YNS - AMP stories サイト https://y-n-s.co.jp/"
+        }
     ],
     "components": [
         {
