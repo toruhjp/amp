@@ -41,13 +41,16 @@
         <title>AMP stories - Sample site</title>
     </head>
     <body>
-        <amp-analytics type="gtag" data-credentials="include">
+        <amp-analytics type="googleanalytics">
             <script type="application/json">
                 {
-                    "vars" : {
-                        "gtag_id": "<GA_MEASUREMENT_ID>",
-                        "config" : {
-                            "<GA_MEASUREMENT_ID>": { "groups": "default" }
+                    "vars": {
+                        "account": "UA-XXXXX-Y"
+                    },
+                    "triggers": {
+                        "trackPageview": {
+                            "on": "visible",
+                            "request": "pageview"
                         }
                     }
                 }
