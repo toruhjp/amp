@@ -35,6 +35,18 @@
             "image": "./img/publisher-logo.jpg"
         },
         {
+            "type": "small",
+            "title": "古いPHPの脆弱性無料診断",
+            "url": "https://lp.y-n-s.co.jp/phpupgrade/",
+            "image": "./img/publisher-logo.jpg"
+        },
+        {
+            "type": "small",
+            "title": "古いPHPの脆弱性無料診断",
+            "url": "https://lp.y-n-s.co.jp/phpupgrade/",
+            "image": "./img/publisher-logo.jpg"
+        },
+        {
             "type": "cta-link",
             "links": [
                 {
