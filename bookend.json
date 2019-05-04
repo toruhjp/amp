@@ -40,11 +40,11 @@
                 {
                     "text": "チャット窓口",
                     "//": "The text ( button name ) must be less than 7 chars regarding iPhone8 screen width",
-                    "url": "https://amp.ooy.tokyo/chat"
+                    "url": "https://amp.ooy.tokyo/chat?source=top"
                 },
                 {
                     "text": "会社概要・地図",
-                    "url": "https://www.google.co.jp/maps/"
+                    "url": "https://goo.gl/maps/bxPJon8LGRxMUryp8"
                 }
             ]
         }
