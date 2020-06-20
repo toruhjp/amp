@@ -9,6 +9,7 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <!-- Import other AMP Extensions here -->
     <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
     <style amp-custom>
     /* Add your styles here */
     </style>
@@ -55,6 +56,26 @@
              layout="responsive" 
              alt="This is a hero image which should be loaded as fast as possible">
     </amp-img>
+    <form name="contact" method="POST" data-netlify="true">
+        <p>
+          <label>Your Name: <input type="text" name="name" /></label>   
+        </p>
+        <p>
+          <label>Your Email: <input type="email" name="email" /></label>
+        </p>
+        <p>
+          <label>Your Role: <select name="role[]" multiple>
+            <option value="leader">Leader</option>
+            <option value="follower">Follower</option>
+          </select></label>
+        </p>
+        <p>
+          <label>Message: <textarea name="message"></textarea></label>
+        </p>
+        <p>
+          <button type="submit">Send</button>
+        </p>
+      </form>
     <amp-analytics type="gtag" data-credentials="include">
     <script type="application/json">
     {
